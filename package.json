@@ -17,4 +17,8 @@
     "url": "https://github.com/tom-mcivor/Toms-CP02---NPM/issues"
   },
   "homepage": "https://github.com/tom-mcivor/Toms-CP02---NPM#readme"
+,
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
